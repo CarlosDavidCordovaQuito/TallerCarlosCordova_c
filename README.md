@@ -7,5 +7,5 @@
 ## Descripción
 
 ## Funcionamiento
-![](img/ImagenFerrari.jpg)
+![](img/imagen-Ferrari.jpg)
 
